@@ -1,0 +1,2 @@
+SELECT id, tarifa_particular, tarifa_motocicleta, tarifa_festivo_multiplicador
+FROM tarifa
